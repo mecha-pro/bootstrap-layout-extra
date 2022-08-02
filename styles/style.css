@@ -1,6 +1,9 @@
 /*-------------
     div Classes
  ---------------*/
- .collage-side{
-    
+ .collage-side img{
+height: 400px;
+ }
+ collage-first img{
+    height: 500px;
  }
