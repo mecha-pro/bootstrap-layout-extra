@@ -3,7 +3,22 @@
  ---------------*/
  .collage-side img{
 height: 400px;
+/* just-Extras */
+width: auto;
+margin: auto;
+border-radius: 0;
+
  }
- collage-first img{
-    height: 500px;
+.collage-first img{
+    height: 650px;
+    width: auto;
+    margin: auto;
+    /* i Don't Know What? */
+    background-origin: padding-box;
+    border-left: 0rem;
+    border-radius: 0px;
  }
+.collage-bottom img{
+    height: 250px;
+    width: 750px;
+}
